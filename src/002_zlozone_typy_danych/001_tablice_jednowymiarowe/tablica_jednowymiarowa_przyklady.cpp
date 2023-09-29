@@ -15,6 +15,7 @@ int main() {
     // Tablica liczb zmiennoprzecinkowych
     std::vector<double> tablicaZmiennoprzecinkowych = {3.14, 2.718, 1.618};
 
+
     // Wyświetlenie tablic
     std::cout << "Tablica liczb całkowitych:";
     for (int liczba : tablicaCalkowitych) {
@@ -33,6 +34,8 @@ int main() {
         std::cout << " " << liczba;
     }
     std::cout << std::endl;
+
+
 
     return 0;
 }
