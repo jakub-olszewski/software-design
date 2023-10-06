@@ -10,7 +10,7 @@ Napisz program, który będzie przechowywał listę liczb całkowitych w tablicy
 
 
 ### Plik nazwij:
-* tablica_dynamiczna.cpp - dla C++
+* tablica_dynamiczna.cs - dla Csharp
 * tablica_dynamiczna.py - dla Python
 
 Uwaga. Pliki należy przesłać na classroom. Pamiętaj, że czas jest ograniczony.
