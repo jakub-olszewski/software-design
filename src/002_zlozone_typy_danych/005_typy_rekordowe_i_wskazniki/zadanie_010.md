@@ -44,7 +44,7 @@ minimalnaIlosc (int)
 ``` 
 \
 \
-Dokonaj odpowiedniego wymoru,  struct lub union, aby zaimplementować rodzaje zamówień. Możesz zdecydować, że jedno z rozwiązań będzie lepsze w kontekście tego zadania.
+Dokonaj odpowiedniego wyboru,  struct lub union, aby zaimplementować rodzaje zamówień. Możesz zdecydować, że jedno z rozwiązań będzie lepsze w kontekście tego zadania.
 
 Napisz funkcję WyswietlZamowienie, która przyjmuje jako argument wskaźnik do zamówienia (typu ZamowienieIndywidualne lub ZamowienieHurtowe) i wyświetla informacje o zamówieniu.
 
