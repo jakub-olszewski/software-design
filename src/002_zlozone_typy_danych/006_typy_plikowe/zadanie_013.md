@@ -1,4 +1,6 @@
-# Zadanie 012
+# Zadanie 013
+
+#### Na classroom należy przesłać plik imie.nazwisko.zip !
 
 Napisz program, który wczytuje liczby z pliku CSV, wykonuje na nich operacje sumy, różnicy, mnożenia i dzielenia, a następnie zapisuje wynik w pliku "result.csv". Program powinien umożliwiać użytkownikowi wybór pliku źródłowego oraz podanie nazwy pliku wynikowego. W przypadku błędów w pliku źródłowym lub podczas operacji matematycznych, program powinien w pliku wynikowym umieścić znak "-" jako wynik operacji.
 
@@ -24,5 +26,8 @@ Przykładowe działanie - Program powinien wykonać następujące operacje:
 * operacje_na_plikach.cs - dla Csharp
 * operacje_na_plikach.py - dla Python
 * result.csv
+
+#### Na classroom należy przesłać plik imie.nazwisko.zip !
+
 
 Uwaga. Pliki należy przesłać na classroom. Pamiętaj, że czas jest ograniczony.
